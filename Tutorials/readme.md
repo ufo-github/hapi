@@ -54,5 +54,8 @@ server.start((err) => {
 
 ## Read more about getting started with hapi  
 
+https://hapijs.com/tutorials  
+
+https://hapijs.com/api  
 
 
