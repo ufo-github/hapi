@@ -1,5 +1,7 @@
 # hapi
 
+![](https://pbs.twimg.com/media/Czg4mcEVQAAAtd6.jpg)
+
 https://hapijs.com/  
 
 ## Getting started
